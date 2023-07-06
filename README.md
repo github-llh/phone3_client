@@ -4,7 +4,7 @@
 
 根据 GitHub 上的 [newbee-mall](https://github.com/newbee-ltd/newbee-mall) 项目，这是一套前台商城系统，基于 Vue3 及相关技术栈开发，包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。  
 
-- 线上预览地址： [http://mall.newbee.ltd](http://mall.newbee.ltd/?from=github) ，账号可自行注册
+线上预览地址： [http://mall.newbee.ltd](http://mall.newbee.ltd/?from=github) ，账号可自行注册
 
 #### 2、系统架构
 
